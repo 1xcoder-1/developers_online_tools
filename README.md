@@ -2,7 +2,7 @@
 
 A modern, responsive collection of essential developer tools built with React, TypeScript, and Redux. This application provides a suite of utilities commonly used by developers in their daily work.
 
-![Web Developer Tools Screenshot](https://user-images.githubusercontent.com/36998159/147647626-2cca7dfc-4627-437e-b41f-4aee9a7cd3be.png)
+![Web Developer Tools Screenshot](img.png)
 
 ## Demo
 
