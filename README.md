@@ -4,10 +4,6 @@ A modern, responsive collection of essential developer tools built with React, T
 
 ![Web Developer Tools Screenshot](img.png)
 
-## Demo
-
-[Live Demo](https://coderberg.github.io/web-developer-tools/)
-
 ## Features
 
 - **Modern UI**: Clean, responsive design with animated gradient background
